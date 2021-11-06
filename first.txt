@@ -1,0 +1,1 @@
+Now i'm editing the text document to see the effect on the git app.
